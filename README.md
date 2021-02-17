@@ -5,6 +5,14 @@ Esta aplicación web está creada para ser usada por los repartidores de la tien
 
 En ella los repartidores (dealers) pueden hacer login con su cuenta de repartidor y ver una tabla con todos los pedidos que tienen pendientes por repatir. Además, los repartidores pueden modificar estos pedidos para indicar su estado de reparto.
 
+
+## Instalación del proyecto y despliegue
+1. Git clone del repositorio
+2. Crear una rama, programar en ella y en terminar subirla
+3. Ejecutar comando 
+        ``
+          sh dealer.sh
+        ``
 ## Ip de la máquina y políticas de seguridad aplicadas (Puertos abiertos)
 ###### IP pública 
 34.207.156.33

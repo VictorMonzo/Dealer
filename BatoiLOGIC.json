@@ -1,0 +1,45 @@
+{
+  "deliveries": [
+    {
+      "id": 1,
+      "order": 1,
+      "customer": "Cliente Cli Cli",
+      "phone": 666666666,
+      "address": "C/ Mi casa",
+      "packages": 1,
+      "state": 1,
+      "time": "7:00"
+    }
+  ],
+
+  "states": [
+    {
+      "id": 1,
+      "name": "Esperando",
+    },
+    {
+      "id": 2,
+      "name": "En ruta",
+    },
+    {
+      "id": 3,
+      "name": "Finalizado ",
+    },
+    {
+      "id": 4,
+      "name": "Fuera de servicio",
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "username": "Víctor Monzó",
+      "password": "12345678",
+      "name": "Repartidor Rep Rep",
+      "truck": "1234 ABC",
+      "state": 1,
+      "token": "tokenAAAAAAAAAAAAAAAAAAAAAA"
+    }
+  ]
+}

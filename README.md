@@ -7,12 +7,14 @@ En ella los repartidores (dealers) pueden hacer login con su cuenta de repartido
 
 
 ## Instalación del proyecto y despliegue
-1. Git clone del repositorio
-2. Crear una rama, programar en ella y en terminar subirla
-3. Ejecutar comando 
-        ``
-          sh dealer.sh
-        ``
+### Intalación
+1. Hacer git clone del repositorio 
+2. Ejecutar comando `` npm install ``
+3. Crear una nueva rama y programar en ella
+### Despliegue
+1. Subir la rama creada a master
+2. Ejecutar comando `` sh dealer.sh ``
+
 ## Ip de la máquina y políticas de seguridad aplicadas (Puertos abiertos)
 ###### IP pública 
 34.207.156.33
